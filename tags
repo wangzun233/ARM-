@@ -1,0 +1,212 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AS	Makefile	/^AS=arm-cortex_a9-linux-gnueabi-as$/;"	m
+BIN	Makefile	/^BIN=$(PROG).bin$/;"	m
+CC	Makefile	/^CC=arm-cortex_a9-linux-gnueabi-gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS= -nostdlib$/;"	m
+CMD_MAX_LEN	main.c	8;"	d	file:
+GICC_ABPR	interrupt.h	83;"	d
+GICC_AEOIR	interrupt.h	85;"	d
+GICC_AHIPPIR	interrupt.h	86;"	d
+GICC_AIAR	interrupt.h	84;"	d
+GICC_APR0	interrupt.h	89;"	d
+GICC_BPR	interrupt.h	78;"	d
+GICC_CTRL	interrupt.h	76;"	d
+GICC_DIR	interrupt.h	92;"	d
+GICC_EOIR	interrupt.h	80;"	d
+GICC_HPPIR	interrupt.h	82;"	d
+GICC_IAR	interrupt.h	79;"	d
+GICC_NSAPR0	interrupt.h	90;"	d
+GICC_PMR	interrupt.h	77;"	d
+GICC_RPR	interrupt.h	81;"	d
+GICD_CTRL	interrupt.h	5;"	d
+GICD_ICFGR0	interrupt.h	56;"	d
+GICD_ICFGR1	interrupt.h	57;"	d
+GICD_ICFGR2	interrupt.h	58;"	d
+GICD_ICFGR3	interrupt.h	59;"	d
+GICD_ICFGR4	interrupt.h	60;"	d
+GICD_ICFGR5	interrupt.h	61;"	d
+GICD_ICFGR6	interrupt.h	62;"	d
+GICD_ICFGR7	interrupt.h	63;"	d
+GICD_ICFGR8	interrupt.h	64;"	d
+GICD_ICFGR9	interrupt.h	65;"	d
+GICD_ICPENDERR0	interrupt.h	34;"	d
+GICD_ICPENDERR1	interrupt.h	35;"	d
+GICD_ICPENDERR2	interrupt.h	36;"	d
+GICD_ICPENDERR3	interrupt.h	37;"	d
+GICD_ICPENDERR4	interrupt.h	38;"	d
+GICD_IGROUPR0	interrupt.h	9;"	d
+GICD_IGROUPR1	interrupt.h	10;"	d
+GICD_IGROUPR2	interrupt.h	11;"	d
+GICD_IGROUPR3	interrupt.h	12;"	d
+GICD_IGROUPR4	interrupt.h	13;"	d
+GICD_IIDR	interrupt.h	7;"	d
+GICD_IPRIORITYR	interrupt.h	53;"	d
+GICD_ISACTIVER0	interrupt.h	40;"	d
+GICD_ISACTIVER1	interrupt.h	41;"	d
+GICD_ISACTIVER2	interrupt.h	42;"	d
+GICD_ISACTIVER3	interrupt.h	43;"	d
+GICD_ISACTIVER4	interrupt.h	44;"	d
+GICD_ISCCTIVER0	interrupt.h	47;"	d
+GICD_ISCCTIVER1	interrupt.h	48;"	d
+GICD_ISCCTIVER2	interrupt.h	49;"	d
+GICD_ISCCTIVER3	interrupt.h	50;"	d
+GICD_ISCCTIVER4	interrupt.h	51;"	d
+GICD_ISCENABLER0	interrupt.h	21;"	d
+GICD_ISCENABLER1	interrupt.h	22;"	d
+GICD_ISCENABLER2	interrupt.h	23;"	d
+GICD_ISCENABLER3	interrupt.h	24;"	d
+GICD_ISCENABLER4	interrupt.h	25;"	d
+GICD_ISENABLER0	interrupt.h	15;"	d
+GICD_ISENABLER1	interrupt.h	16;"	d
+GICD_ISENABLER2	interrupt.h	17;"	d
+GICD_ISENABLER3	interrupt.h	18;"	d
+GICD_ISENABLER4	interrupt.h	19;"	d
+GICD_ISPENDR0	interrupt.h	28;"	d
+GICD_ISPENDR1	interrupt.h	29;"	d
+GICD_ISPENDR2	interrupt.h	30;"	d
+GICD_ISPENDR3	interrupt.h	31;"	d
+GICD_ISPENDR4	interrupt.h	32;"	d
+GICD_ITARGETSR	interrupt.h	54;"	d
+GICD_PPISR	interrupt.h	67;"	d
+GICD_SGIR	interrupt.h	74;"	d
+GICD_SPISR0	interrupt.h	69;"	d
+GICD_SPISR1	interrupt.h	70;"	d
+GICD_SPISR2	interrupt.h	71;"	d
+GICD_SPISR3	interrupt.h	72;"	d
+GICD_TYPER	interrupt.h	6;"	d
+GPIOA_ALTFN0	key_irq.h	12;"	d
+GPIOA_ALTFN1	key_irq.h	13;"	d
+GPIOA_DET	key_irq.h	9;"	d
+GPIOA_DETENB	key_irq.h	16;"	d
+GPIOA_DETMODE0	key_irq.h	6;"	d
+GPIOA_DETMODE1	key_irq.h	7;"	d
+GPIOA_DETMODEEX	key_irq.h	15;"	d
+GPIOA_INTENB	key_irq.h	8;"	d
+GPIOA_OUTEN	key_irq.h	5;"	d
+GPIOA_PAD	key_irq.h	10;"	d
+GPIOA_PULLENB	key_irq.h	19;"	d
+GPIOA_PULLSEL	key_irq.h	18;"	d
+GPIOC_ALTFN0	led.c	5;"	d	file:
+GPIOC_OUT	led.c	3;"	d	file:
+GPIOC_OUTENB	led.c	4;"	d	file:
+GPIOD_ALTFN0	iic.c	2;"	d	file:
+GPIOD_ALTFN0	uart.c	5;"	d	file:
+GPIOD_ALTFN1	uart.c	6;"	d	file:
+GPIOD_PULLENB	uart.c	7;"	d	file:
+I2CADD	iic.c	7;"	d	file:
+I2CCLKENB2	iic.c	3;"	d	file:
+I2CCON	iic.c	5;"	d	file:
+I2CDS	iic.c	8;"	d	file:
+I2CLC	iic.c	9;"	d	file:
+I2CSTAT	iic.c	6;"	d	file:
+IPRESET0	iic.c	4;"	d	file:
+LD	Makefile	/^LD=arm-cortex_a9-linux-gnueabi-ld$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS=-nostartfiles -nostdlib -T shell.lds -e main$/;"	m
+MMA8653_ID	mma8653.c	4;"	d	file:
+MMA8653_RANGE_2G	mma8653.c	6;"	d	file:
+MMA8653_RANGE_4G	mma8653.c	7;"	d	file:
+MMA8653_RANGE_8G	mma8653.c	8;"	d	file:
+OBJCOPY	Makefile	/^OBJCOPY=arm-cortex_a9-linux-gnueabi-objcopy$/;"	m
+OBJS	Makefile	/^OBJS=main.o  uart.o led.o cmd.o  iic.o mma8653.o itoa.o strcmp.o stack.o start.o  key_irq.o interrupt.o$/;"	m
+PROG	Makefile	/^PROG=shell$/;"	m
+UART0CLKENB	uart.c	2;"	d	file:
+UART0CLKGEN0L	uart.c	3;"	d	file:
+UBRDIV0	uart.c	14;"	d	file:
+UCON0	uart.c	10;"	d	file:
+UFRACVAL0	uart.c	15;"	d	file:
+ULCON0	uart.c	9;"	d	file:
+URXH0	uart.c	13;"	d	file:
+UTRSTAT0	uart.c	11;"	d	file:
+UTXH0	uart.c	12;"	d	file:
+__CMD_H__	cmd.h	4;"	d
+__I2C_H__	iic.h	3;"	d
+__INTERRUPT_H__	interrupt.h	2;"	d
+__ITOA_H__	itoa.h	2;"	d
+__KEY_IRQ_H__	key_irq.h	3;"	d
+__LED_H__	led.h	3;"	d
+__MMA8653_H__	mma8653.h	4;"	d
+__STRCMP_H__	strcmp.h	4;"	d
+__UART_H__	uart.h	4;"	d
+__stack_abt_end	stack.s	/^__stack_abt_end:$/;"	l
+__stack_abt_start	stack.s	/^__stack_abt_start:$/;"	l
+__stack_fiq_end	stack.s	/^__stack_fiq_end:$/;"	l
+__stack_fiq_start	stack.s	/^__stack_fiq_start:$/;"	l
+__stack_irq_end	stack.s	/^__stack_irq_end:$/;"	l
+__stack_irq_start	stack.s	/^__stack_irq_start:$/;"	l
+__stack_srv_end	stack.s	/^__stack_srv_end:$/;"	l
+__stack_srv_start	stack.s	/^__stack_srv_start:$/;"	l
+__stack_und_end	stack.s	/^__stack_und_end:$/;"	l
+__stack_und_start	stack.s	/^__stack_und_start:$/;"	l
+_data_abort	start.s	/^_data_abort:		$/;"	l
+_fiq	start.s	/^_fiq:			$/;"	l
+_irq	start.s	/^_irq:			$/;"	l
+_not_used	start.s	/^_not_used:		 $/;"	l
+_prefetch_abort	start.s	/^_prefetch_abort:	$/;"	l
+_software_interrupt	start.s	/^_software_interrupt:	$/;"	l
+_stack_abt_end	start.s	/^_stack_abt_end:$/;"	l
+_stack_fiq_end	start.s	/^_stack_fiq_end:$/;"	l
+_stack_irq_end	start.s	/^_stack_irq_end:$/;"	l
+_stack_srv_end	start.s	/^_stack_srv_end:$/;"	l
+_stack_und_end	start.s	/^_stack_und_end:$/;"	l
+_start	start.s	/^_start:$/;"	l
+_tcmd	cmd.h	/^typedef struct _tcmd$/;"	s
+_undefined_instruction	start.s	/^_undefined_instruction:	$/;"	l
+bic	start.s	/^bic r0, r0, #0xC0$/;"	l
+cmd	main.c	/^char cmd[CMD_MAX_LEN];$/;"	v
+cmd_func	cmd.h	/^    void (*cmd_func)(void);$/;"	m	struct:_tcmd
+cmd_list	cmd.c	/^cmd_t cmd_list[]=$/;"	v
+cmd_name	cmd.h	/^    char *cmd_name;$/;"	m	struct:_tcmd
+cmd_t	cmd.h	/^}cmd_t;$/;"	t	typeref:struct:_tcmd
+cmp_end	strcmp.s	/^cmp_end:$/;"	l
+cmp_loop	strcmp.s	/^cmp_loop:$/;"	l
+data_abort	start.s	/^data_abort:$/;"	l
+do_data_abort	interrupt.c	/^void do_data_abort (void)$/;"	f
+do_fiq	interrupt.c	/^void do_fiq (void)$/;"	f
+do_gpioa_irq	key_irq.c	/^void do_gpioa_irq(void)$/;"	f
+do_irq	interrupt.c	/^void do_irq (void)$/;"	f
+do_not_used	interrupt.c	/^void do_not_used (void)$/;"	f
+do_prefetch_abort	interrupt.c	/^void do_prefetch_abort (void)$/;"	f
+do_software_interrupt	interrupt.c	/^void do_software_interrupt (void)$/;"	f
+do_undefined_instruction	interrupt.c	/^void do_undefined_instruction (void)$/;"	f
+enable_interrupts	start.s	/^enable_interrupts:$/;"	l
+find_cmd	cmd.c	/^cmd_t *find_cmd(char *input_cmd)$/;"	f
+fiq	start.s	/^fiq:$/;"	l
+id	mma8653.c	/^unsigned char id[32];$/;"	v
+iic2_init	iic.c	/^void iic2_init(void)$/;"	f
+iic2_rx	iic.c	/^void iic2_rx(unsigned char *byte, unsigned char len)$/;"	f
+iic2_start	iic.c	/^void iic2_start(unsigned char slave_addr, unsigned int rdwr)$/;"	f
+iic2_stop	iic.c	/^void iic2_stop(void)$/;"	f
+iic2_tx	iic.c	/^void iic2_tx(unsigned char *byte, unsigned char len)$/;"	f
+init_stacks	start.s	/^init_stacks:$/;"	l
+interrupt_init	interrupt.c	/^int interrupt_init (void)$/;"	f
+irq	start.s	/^irq:$/;"	l
+itoa	itoa.c	/^void itoa(char *buffer, unsigned int num)$/;"	f
+key_irq_init	key_irq.c	/^void key_irq_init(void)$/;"	f
+led1_off	led.c	/^void led1_off(void)$/;"	f
+led1_on	led.c	/^void led1_on(void)$/;"	f
+led_init	led.c	/^void led_init(void)$/;"	f
+main	main.c	/^int main()$/;"	f
+mma8653_active	mma8653.c	/^void mma8653_active(void)$/;"	f
+mma8653_get_xyz	mma8653.c	/^void mma8653_get_xyz(void)$/;"	f
+mma8653_read	mma8653.c	/^void mma8653_read(unsigned char addr, unsigned char *byte, int len)$/;"	f
+mma8653_show_id	mma8653.c	/^void mma8653_show_id(void)$/;"	f
+mma8653_write	mma8653.c	/^void mma8653_write(unsigned char addr, unsigned char *byte, int len)$/;"	f
+mov	start.s	/^mov pc, lr        $/;"	l
+mrs	start.s	/^mrs r0, cpsr$/;"	l
+msr	start.s	/^msr cpsr_c, r0$/;"	l
+my_strcmp	strcmp.s	/^my_strcmp:$/;"	l
+not_used	start.s	/^not_used:$/;"	l
+prefetch_abort	start.s	/^prefetch_abort:$/;"	l
+reset	start.s	/^reset:$/;"	l
+software_interrupt	start.s	/^software_interrupt:$/;"	l
+uart_getc	uart.c	/^char uart_getc(void)$/;"	f
+uart_gets	uart.c	/^void uart_gets(char *buf, int len)$/;"	f
+uart_init	uart.c	/^void uart_init(void)$/;"	f
+uart_putc	uart.c	/^void uart_putc(char c)$/;"	f
+uart_puts	uart.c	/^void uart_puts(char *str)$/;"	f
+undefined_instruction	start.s	/^undefined_instruction:$/;"	l
